@@ -319,7 +319,7 @@ h6 {
 }
 /*regitercss*/
 .modal-content {
-    position: fixed;
+/*    position: fixed;*/
     left: 70px;
     padding-right: 10px;
     width: 371px;
@@ -1786,6 +1786,7 @@ input[type=checkbox]{
   width: 20px;
 }
 .pb-modalreglog-container {
+/*    overflow: hidden;*/
   margin-top: 0px;
 }
 /* .error{
@@ -1807,6 +1808,7 @@ input[type=checkbox]{
 } */
 
 .pb-modalreglog-input-group {
+
   /* margin: auto; */
   margin-left: 15px;
 }
@@ -1824,6 +1826,8 @@ input[type=checkbox]{
   margin-top: 20px;
 }
 
+/*
 #pb-modalreglog-progressbar {
   border-radius: 2px;
 }
+*/
